@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="serenity_ScreenPlay.features.search.SearchByKeywordStory" skipped="0" tests="1" time="2.14" timestamp="2018-04-18T07:56:34.940+02:00[Africa/Harare]"><testcase classname="serenity_ScreenPlay.features.search.SearchByKeywordStory" name="Search results should show the search term in the title"><error message="Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver</error><system-err>Could not instantiate class org.openqa.selenium.firefox.FirefoxDriver&#13;
+serenity_ScreenPlay.tasks.OpenTheApplication.performAs(OpenTheApplication.java:15)&#13;
+serenity_ScreenPlay.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:41)&#13;
+</system-err></testcase></testsuite>

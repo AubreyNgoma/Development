@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Searching Wikipedia for a specific keyword and" skipped="0" tests="1" time="14.59" timestamp="2018-04-18T09:51:55.111+02:00[Africa/Harare]"><testcase name="Wikipedia Search"><failure message="The following error occurred: Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled</failure><system-err>The following error occurred: Expected enabled element was not enabled&#13;
+serenity_ScreenPlay.tasks.Search.performAs(Search.java:25)&#13;
+serenity_ScreenPlay.features.search.BDD_SearchStepDefinitions.i_search_the_term_Behaviour_Driven_Developmnet_and_enter(BDD_SearchStepDefinitions.java:41)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

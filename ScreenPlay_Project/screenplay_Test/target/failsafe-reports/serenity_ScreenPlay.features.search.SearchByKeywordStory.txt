@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: serenity_ScreenPlay.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.798 sec <<< FAILURE! - in serenity_ScreenPlay.features.search.SearchByKeywordStory
+search_results_should_show_the_search_term_in_the_title(serenity_ScreenPlay.features.search.SearchByKeywordStory)  Time elapsed: 2.319 sec  <<< ERROR!
+net.thucydides.core.webdriver.UnsupportedDriverException: 
+Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'DESKTOP-PMMGHGE', ip: '10.1.167.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: FirefoxDriver
+	at serenity_ScreenPlay.features.search.SearchByKeywordStory.search_results_should_show_the_search_term_in_the_title(SearchByKeywordStory.java:41)
+
